@@ -12,15 +12,15 @@ Octyx_<size_number>[D][A]-Regular.otf
 ```
 - `<size_number>` — the point/design size for the variant (e.g. `12`, `24`, `36`)
 - `D` *(optional)* — variant includes **Descenders** (letters that extend below the baseline, e.g. g, p, y)
-- `A` *(optional)* — variant includes **Ascenders** (letters that extend above the x-height, e.g. b, d, h)
+- `A` *(optional)* — variant includes **Ascenders** (accent marks only: ˜ ´ ¨ ˆ `)
 
 **Examples:**
 | Filename | Description |
 |---|---|
-| `Octyx_12-Regular.otf` | Size 12, no descenders or ascenders |
+| `Octyx_12-Regular.otf` | Size 12, no descenders or accent marks |
 | `Octyx_24D-Regular.otf` | Size 24 with descenders |
-| `Octyx_36A-Regular.otf` | Size 36 with ascenders |
-| `Octyx_48DA-Regular.otf` | Size 48 with both descenders and ascenders |
+| `Octyx_36A-Regular.otf` | Size 36 with accent marks (˜ ´ ¨ ˆ `) |
+| `Octyx_48DA-Regular.otf` | Size 48 with descenders and accent marks |
 
 ## License
 
